@@ -8,9 +8,9 @@ Quiero tener otro futuro de la mano de la programación.
 =======
 ----------------------------------------------------------------------------
 # Estudios 
-Secundario completo 2002
-Egresado CCNA Fundacion Proydesa 2012 
-Curso de Html Base completado por CodeaRock 2022
+2002Secundario completo 
+2012 Egresado CCNA Fundacion Proydesa
+2022 Curso de Html Base completado por CodeaRock 
 Cursando JavaScript Base 
 Por cursar React y Firebase
 
