@@ -6,7 +6,7 @@ Me llamo Román.
 # Estudios 
 * Secundario completo 
 * Egresado CCNA Fundacion Proydesa
-* Curso de Html Base completado por CodeaRock 
+* Curso de Html base 
 * Cursando JavaScript Base 
 * Por cursar React y Firebase
 
