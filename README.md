@@ -1,16 +1,15 @@
 
 
-### Hi there 👋
-Me llamo Román.
+### Román 
+
 ----------------------------------------------------------------------------
-# Estudios 
-* Secundario completo.
-* Egresado CCNA.Fundacion Proydesa.
+# Conocimientos.
+* CCNA.
 * Html. 
-* Cursando JavaScript Base.
-* Cursando React. 
-* Cursando Firebase.
-* Cursando Python.
+* JavaScript.
+* React. 
+* Firebase.
+* Python.
 
 --------------------------------------------------------------------------
 # Idiomas
